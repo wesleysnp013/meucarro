@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.06f33ff4.chunk.css",
+    "main.js": "/static/js/main.1719a0dd.chunk.js",
+    "main.js.map": "/static/js/main.1719a0dd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cf145839.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cf145839.js.map",
+    "static/js/2.3dcb8624.chunk.js": "/static/js/2.3dcb8624.chunk.js",
+    "static/js/2.3dcb8624.chunk.js.map": "/static/js/2.3dcb8624.chunk.js.map",
+    "static/js/3.32aee519.chunk.js": "/static/js/3.32aee519.chunk.js",
+    "static/js/3.32aee519.chunk.js.map": "/static/js/3.32aee519.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.06f33ff4.chunk.css.map": "/static/css/main.06f33ff4.chunk.css.map",
+    "static/js/2.3dcb8624.chunk.js.LICENSE.txt": "/static/js/2.3dcb8624.chunk.js.LICENSE.txt",
+    "static/media/01image.cf802b0b.webp": "/static/media/01image.cf802b0b.webp",
+    "static/media/02image.e2a3c5d3.webp": "/static/media/02image.e2a3c5d3.webp",
+    "static/media/03image.867e2ad1.webp": "/static/media/03image.867e2ad1.webp",
+    "static/media/image-car.f5a1b480.jpg": "/static/media/image-car.f5a1b480.jpg",
+    "static/media/image.12de7490.webp": "/static/media/image.12de7490.webp",
+    "static/media/logo.ea53b97b.svg": "/static/media/logo.ea53b97b.svg",
+    "static/media/reclame.3ac8ab3f.webp": "/static/media/reclame.3ac8ab3f.webp",
+    "static/media/seguro.ff1a80c8.webp": "/static/media/seguro.ff1a80c8.webp",
+    "static/media/sem-custo.4d7e9e4b.webp": "/static/media/sem-custo.4d7e9e4b.webp",
+    "static/media/venda-rapida.559969f3.webp": "/static/media/venda-rapida.559969f3.webp",
+    "static/media/zero-esforco.70af7e78.webp": "/static/media/zero-esforco.70af7e78.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf145839.js",
+    "static/js/2.3dcb8624.chunk.js",
+    "static/css/main.06f33ff4.chunk.css",
+    "static/js/main.1719a0dd.chunk.js"
+  ]
+}
